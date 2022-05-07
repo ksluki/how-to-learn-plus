@@ -1,0 +1,10 @@
+.footer {
+  background-color: #1f1f1f;
+  display: flex;
+  min-height: 350px;
+  justify-content: center;
+}
+
+li {
+  margin-top: 10px;
+}
