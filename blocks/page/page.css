@@ -9,7 +9,7 @@
   font-family: "Inter", "Arial", "Helvetica Neue", sans-serif;
 }
 
-a:hover {
+.a-link:hover {
   opacity: 0.7;
   transition: ease-out;
 }
